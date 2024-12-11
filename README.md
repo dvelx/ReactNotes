@@ -8,3 +8,4 @@
 Пример отображения интерфейса приложения:
 - [Авторизация](./example/auth.jpg)
 - [Список заметок](./example/noteList.jpg)
+# ReactNotes
